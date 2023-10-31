@@ -2192,7 +2192,7 @@ This source code is licensed under the MIT license found in the license file.
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="88c0d0" />
+        <option name="EFFECT_COLOR" value="FFD500" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -5465,7 +5465,7 @@ This source code is licensed under the MIT license found in the license file.
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="88c0d0" />
+        <option name="EFFECT_COLOR" value="FFD500" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
