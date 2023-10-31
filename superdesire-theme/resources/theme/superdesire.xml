@@ -2,13 +2,13 @@
 Copyright (c) 2016-present Sven Greb <development@svengreb.de>
 This source code is licensed under the MIT license found in the license file.
 -->
-<scheme name="Nord" version="142" parent_scheme="Darcula">
+<scheme name="SuperDesire" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2016-09-24T21:08:20</property>
+    <property name="created">2023-10-31T21:08:20</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.3.0.0</property>
+    <property name="ideVersion">2023.2.3</property>
     <property name="modified">2020-10-24T16:16:48</property>
-    <property name="originalScheme">Nord</property>
+    <property name="originalScheme">SuperDesire</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="a3be8c" />

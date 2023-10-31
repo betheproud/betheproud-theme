@@ -1,8 +1,8 @@
 {
-  "name": "Nord",
+  "name": "SuperDesire",
   "dark": true,
-  "author": "Sven Greb",
-  "editorScheme": "/themes/nord.xml",
+  "author": "SuperDesire",
+  "editorScheme": "/theme/superdesire.xml",
   "ui": {
     "*": {
       "acceleratorForeground": "#88c0d0",

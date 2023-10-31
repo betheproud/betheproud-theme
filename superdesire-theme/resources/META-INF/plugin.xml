@@ -7,10 +7,10 @@ References:
   1. https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html#idea-plugin
 -->
 <idea-plugin>
-  <id>com.arcticicestudio.nord.jetbrains</id>
-  <name>Nord</name>
-  <version>0.13.0</version>
-  <vendor email="development@svengreb.de" url="https://www.svengreb.de">Sven Greb</vendor>
+  <id>superdesire-theme</id>
+  <name>SuperDesire theme</name>
+  <version>1.0.0</version>
+  <vendor email="support@superdesire.com" url="https://www.superdesire.com">Super:Desire</vendor>
 
   <description>
     <![CDATA[
@@ -19,16 +19,14 @@ References:
   </description>
 
   <!-- See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for details. -->
-  <idea-version since-build="191.0" />
+  <idea-version since-build="222" until-build="232.*"/>
 
-  <!--
-  See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html on how to target different products.
-  Using `com.intellij.modules.lang` enables support for all products.
-  -->
-  <depends>com.intellij.modules.lang</depends>
+  <!-- Product and plugin compatibility requirements.
+      Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+  <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae" path="/nord.theme.json" />
+    <themeProvider id="e9501a23-fcca-4b66-aaeb-8e7b44a92a10" path="/theme/superdesire.theme.json"/>
   </extensions>
 
   <actions>
