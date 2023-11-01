@@ -2701,7 +2701,7 @@ This source code is licensed under the MIT license found in the license file.
     </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="C3F804" />
+        <option name="FOREGROUND" value="ADFF2F" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2831,7 +2831,7 @@ This source code is licensed under the MIT license found in the license file.
     </option>
     <option name="KOTLIN_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="81a1c1" />
+        <option name="FOREGROUND" value="00FA9A" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
