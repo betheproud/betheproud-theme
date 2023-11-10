@@ -1099,7 +1099,7 @@ This source code is licensed under the MIT license found in the license file.
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="6B8E23" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -2701,7 +2701,7 @@ This source code is licensed under the MIT license found in the license file.
     </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="ADFF2F" />
+        <option name="FOREGROUND" value="98FB98" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2715,7 +2715,7 @@ This source code is licensed under the MIT license found in the license file.
     </option>
     <option name="KOTLIN_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="BDB76B" />
       </value>
     </option>
     <option name="KOTLIN_BRACES">
@@ -2755,7 +2755,7 @@ This source code is licensed under the MIT license found in the license file.
     </option>
     <option name="KOTLIN_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="BDB76B" />
       </value>
     </option>
     <option name="KOTLIN_DOT">
@@ -2841,7 +2841,7 @@ This source code is licensed under the MIT license found in the license file.
     </option>
     <option name="KOTLIN_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="BDB76B" />
       </value>
     </option>
     <option name="KOTLIN_LOCAL_VARIABLE">
@@ -5102,7 +5102,7 @@ This source code is licensed under the MIT license found in the license file.
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="88c0d0" />
+        <option name="FOREGROUND" value="FFD700" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="88c0d0" />
       </value>
@@ -5210,7 +5210,7 @@ This source code is licensed under the MIT license found in the license file.
     </option>
     <option name="TS.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="6B8E23" />
       </value>
     </option>
     <option name="TS.LOCAL_VARIABLE">
