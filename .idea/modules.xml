@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/betheproud-theme.iml" filepath="$PROJECT_DIR$/.idea/betheproud-theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superdemo-theme/superdemo-theme.iml" filepath="$PROJECT_DIR$/superdemo-theme/superdemo-theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superdesire-theme/superdesire-theme.iml" filepath="$PROJECT_DIR$/superdesire-theme/superdesire-theme.iml" />
+    </modules>
+  </component>
+</project>

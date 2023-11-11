@@ -21,6 +21,7 @@ node_modules/
 !.idea/runConfigurations
 !.idea/saved-exports
 !.idea/watcherTasks.xml
+!.idea/modules.xml
 out/
-*.iml
-**/*.iml
+betheproud-theme.iml
+**/.DS_Store
