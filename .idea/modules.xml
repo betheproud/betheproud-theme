@@ -3,8 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/betheproud-theme.iml" filepath="$PROJECT_DIR$/.idea/betheproud-theme.iml" />
-      <module fileurl="file://$PROJECT_DIR$/superdemo-theme/superdemo-theme.iml" filepath="$PROJECT_DIR$/superdemo-theme/superdemo-theme.iml" />
-      <module fileurl="file://$PROJECT_DIR$/superdesire-theme/superdesire-theme.iml" filepath="$PROJECT_DIR$/superdesire-theme/superdesire-theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/betheproud-theme-v1/betheproud-theme-v1.iml" filepath="$PROJECT_DIR$/betheproud-theme-v1/betheproud-theme-v1.iml" />
     </modules>
   </component>
 </project>
